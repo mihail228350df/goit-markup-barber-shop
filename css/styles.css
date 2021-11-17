@@ -233,6 +233,7 @@ body {
 .about-list {
     display: flex;
     margin-right: 64px;
+    flex-shrink: 0
 }
 
 .about-item:not(:last-child) {
